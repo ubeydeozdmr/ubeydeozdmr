@@ -1,10 +1,5 @@
  # 👋 Welcome
 Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since high school and I am currently studying preparatory at Uskudar University. I'm currently learning JavaScript.
- ## 📫 You can contact me
- - [Email](mailto:ubeydeozdmr@gmail.com)
- - [Twitter](https://twitter.com/ubeydeozdmr)
- - [Telegram](https://t.me/ubeydeozdmr)
- - [Reddit](https://www.reddit.com/user/ubeydeozdmr)
  ## 👀 You can look at...
  - [ubeydeozdmr.github.io (Website)](https://ubeydeozdmr.github.io) My website template
  - [ubeydeozdmr.github.io (Source Code)](https://github.com/ubeydeozdmr/ubeydeozdmr.github.io) Source codes of my website template
@@ -12,6 +7,11 @@ Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since
  - [Kronometre](https://github.com/ubeydeozdmr/Kronometre) A simple stopwatch app.
  - [MovableArrow](https://github.com/ubeydeozdmr/MovableArrow) A console application where you can move the arrow in the middle with the arrow keys.
  - [All Repositories](https://github.com/ubeydeozdmr?tab=repositories) The above were my featured projects.
+ ## 📫 You can contact me
+ - [Email](mailto:ubeydeozdmr@gmail.com)
+ - [Twitter](https://twitter.com/ubeydeozdmr)
+ - [Telegram](https://t.me/ubeydeozdmr)
+ - [Reddit](https://www.reddit.com/user/ubeydeozdmr)
 
 <!--
 - 👋 Hi, I’m @ubeydeozdmr
