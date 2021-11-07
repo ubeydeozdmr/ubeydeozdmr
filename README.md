@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since
  - [MovableArrow](https://github.com/ubeydeozdmr/MovableArrow) A console application where you can move the arrow in the middle with the arrow keys.
  - [All Repositories](https://github.com/ubeydeozdmr?tab=repositories) The above were my featured projects.
  ## 📫 You can contact me
- - [Email](mailto:ubeydeozdmr@gmail.com)
- - [Twitter](https://twitter.com/ubeydeozdmr)
- - [Telegram](https://t.me/ubeydeozdmr)
- - [Reddit](https://www.reddit.com/user/ubeydeozdmr)
+ - ![Email](./assets/gmail.png) [Email](mailto:ubeydeozdmr@gmail.com)
+ - ![Twitter](./assets/twitter.png) [Twitter](https://twitter.com/ubeydeozdmr)
+ - ![Telegram](./assets/telegram.png) [Telegram](https://t.me/ubeydeozdmr)
+ - ![Reddit](./assets/reddit.png) [Reddit](https://www.reddit.com/user/ubeydeozdmr)
 
 <!--
 - 👋 Hi, I’m @ubeydeozdmr
