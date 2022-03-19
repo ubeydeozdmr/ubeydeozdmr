@@ -1,5 +1,18 @@
  # 👋 Welcome
+
+![banner](./assets/purple-welcome-canvas-banner.png)
+
 Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since high school and I am currently studying preparatory at Uskudar University and learning JavaScript.
+
+ ## 🤓 Knowledge & Activity
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+[![Ubeyde's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubeydeozdmr)](https://github.com/anuraghazra/github-readme-stats)
+
  ## 👀 You can look at...
  
 | Project Name | Repo Name | Source Code | Project Link |
@@ -10,13 +23,21 @@ Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since
 | **ROMs for laurel-sprout** | `roms-for-laurel-sprout` | [Source Code](https://github.com/ubeydeozdmr/ROMsForLaurelSprout) | [Project Link](https://github.com/ubeydeozdmr/roms-for-laurel-sprout/releases/tag/v1) |
 | **Movable Arrow** | `movable-arrow` | [Source Code](https://github.com/ubeydeozdmr/movable-arrow) | [Project Link](https://github.com/ubeydeozdmr/movable-arrow/releases/tag/v1.1) |
 | **Multipurpose Console** | `multipurpose-console` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-console) | [Project Link](https://github.com/ubeydeozdmr/multipurpose-console/releases/tag/2022Edit) |
-| **Multipurpose Web** | `multipurpose-web` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-web) | [Project Link](https://ubeydeozdmr.github.io/MultipurposeWeb/) | 
+| **Multipurpose Web** | `multipurpose-web` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-web) | [Project Link](https://ubeydeozdmr.github.io/MultipurposeWeb/) |
 
  ## 📫 You can contact me
+ 
+<a href="mailto:ubeydeozdmr@gmail.com"><img align="left" src="./assets/gmail.png" alt="Ubeyde Emir Özdemir | Email" width="21px"/></a>
+<a href="https://twitter.com/ubeydeozdmr"><img align="left" src="./assets/twitter.png" alt="Ubeyde Emir Özdemir | Twitter" width="21px"/></a>
+<a href="https://t.me/ubeydeozdmr"><img align="left" src="./assets/telegram.png" alt="Ubeyde Emir Özdemir | Telegram" width="21px"/></a>
+<a href="https://www.reddit.com/user/ubeydeozdmr"><img align="left" src="./assets/reddit.png" alt="Ubeyde Emir Özdemir | Reddit" width="21px"/></a>
+ 
+ <!--
  - ![Email](./assets/gmail.png) [Email](mailto:ubeydeozdmr@gmail.com)
  - ![Twitter](./assets/twitter.png) [Twitter](https://twitter.com/ubeydeozdmr)
  - ![Telegram](./assets/telegram.png) [Telegram](https://t.me/ubeydeozdmr)
  - ![Reddit](./assets/reddit.png) [Reddit](https://www.reddit.com/user/ubeydeozdmr)
+-->
 
 <!--
 - 👋 Hi, I’m @ubeydeozdmr
