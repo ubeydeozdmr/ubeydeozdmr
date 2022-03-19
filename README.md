@@ -1,11 +1,17 @@
  # 👋 Welcome
 Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since high school and I am currently studying preparatory at Uskudar University and learning JavaScript.
  ## 👀 You can look at...
- - [ubeydeozdmr.github.io (Website)](https://ubeydeozdmr.github.io) My website template
- - [ubeydeozdmr.github.io (Source Code)](https://github.com/ubeydeozdmr/ubeydeozdmr.github.io) Source codes of my website template
- - [PokedexBot](https://github.com/ubeydeozdmr/PokedexBot) A bot for Telegram, made with the telegraf.js npm package and showing you pokemon picture and information.
- - [ROMsForLaurelSprout](https://github.com/ubeydeozdmr/ROMsForLaurelSprout) This winforms application contains ROM download & community links and installation & XDA explanations made for Mi A3 phones.
- - [MovableArrow](https://github.com/ubeydeozdmr/movable-arrow) A console application where you can move the arrow in the middle with the arrow keys.
+ 
+| Project Name | Repo Name | Source Code | Project Link |
+| --- | :---: |:---:| :---:|
+| **My personal website** | `ubeydeozdmr.github.io` | [Source Code](https://github.com/ubeydeozdmr/ubeydeozdmr.github.io) | [Project Link](https://ubeydeozdmr.netlify.app)
+| **Countrypedia** | `countrypedia` | [Source Code](https://github.com/ubeydeozdmr/countrypedia) | [Project Link](https://simplecountrypedia.netlify.app)
+| **Pokedex Bot** | `pokedex-bot-telegram` | [Source Code](https://github.com/ubeydeozdmr/PokedexBot) | [Project Link](https://t.me/rotompokedex_bot) |
+| **ROMs for laurel-sprout** | `roms-for-laurel-sprout` | [Source Code](https://github.com/ubeydeozdmr/ROMsForLaurelSprout) | [Project Link](https://github.com/ubeydeozdmr/roms-for-laurel-sprout/releases/tag/v1) |
+| **Movable Arrow** | `movable-arrow` | [Source Code](https://github.com/ubeydeozdmr/movable-arrow) | [Project Link](https://github.com/ubeydeozdmr/movable-arrow/releases/tag/v1.1) |
+| **Multipurpose Console** | `multipurpose-console` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-console) | [Project Link](https://github.com/ubeydeozdmr/multipurpose-console/releases/tag/2022Edit) |
+| **Multipurpose Web** | `multipurpose-web` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-web) | [Project Link](https://ubeydeozdmr.github.io/MultipurposeWeb/) | 
+
  ## 📫 You can contact me
  - ![Email](./assets/gmail.png) [Email](mailto:ubeydeozdmr@gmail.com)
  - ![Twitter](./assets/twitter.png) [Twitter](https://twitter.com/ubeydeozdmr)
