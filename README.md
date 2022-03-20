@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 [![Ubeyde's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubeydeozdmr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubeydeozdmr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubeydeozdmr&layout=compact&exclude_repo=stopwatch,code-playground,ortalama-hesaplama-winforms,ortalama-hesaplama,roman-numeral-converter,first-mvc-project,movie-app)](https://github.com/anuraghazra/github-readme-stats)
 
  ## 👀 You can look at...
  
