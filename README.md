@@ -21,17 +21,18 @@ Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since
 | **My personal website** | `ubeydeozdmr.github.io` | [Source Code](https://github.com/ubeydeozdmr/ubeydeozdmr.github.io) | [Project Link](https://ubeydeozdmr.netlify.app)
 | **Countrypedia** | `countrypedia` | [Source Code](https://github.com/ubeydeozdmr/countrypedia) | [Project Link](https://simplecountrypedia.netlify.app)
 | **Pokedex Bot** | `pokedex-bot-telegram` | [Source Code](https://github.com/ubeydeozdmr/PokedexBot) | [Project Link](https://t.me/rotompokedex_bot) |
-| **ROMs for laurel-sprout** | `roms-for-laurel-sprout` | [Source Code](https://github.com/ubeydeozdmr/ROMsForLaurelSprout) | [Project Link](https://github.com/ubeydeozdmr/roms-for-laurel-sprout/releases/tag/v1) |
+| **ROMs for laurel_sprout** | `roms-for-laurel-sprout` | [Source Code](https://github.com/ubeydeozdmr/ROMsForLaurelSprout) | [Project Link](https://github.com/ubeydeozdmr/roms-for-laurel-sprout/releases/tag/v1) |
 | **Movable Arrow** | `movable-arrow` | [Source Code](https://github.com/ubeydeozdmr/movable-arrow) | [Project Link](https://github.com/ubeydeozdmr/movable-arrow/releases/tag/v1.1) |
 | **Multipurpose Console** | `multipurpose-console` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-console) | [Project Link](https://github.com/ubeydeozdmr/multipurpose-console/releases/tag/2022Edit) |
 | **Multipurpose Web** | `multipurpose-web` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-web) | [Project Link](https://ubeydeozdmr.github.io/MultipurposeWeb/) |
 
  ## 📫 You can contact me
  
-<a href="mailto:ubeydeozdmr@gmail.com"><img align="left" src="./assets/gmail.png" alt="Ubeyde Emir Özdemir | Email" width="21px"/></a>
-<a href="https://twitter.com/ubeydeozdmr"><img align="left" src="./assets/twitter.png" alt="Ubeyde Emir Özdemir | Twitter" width="21px"/></a>
-<a href="https://t.me/ubeydeozdmr"><img align="left" src="./assets/telegram.png" alt="Ubeyde Emir Özdemir | Telegram" width="21px"/></a>
-<a href="https://www.reddit.com/user/ubeydeozdmr"><img align="left" src="./assets/reddit.png" alt="Ubeyde Emir Özdemir | Reddit" width="21px"/></a>
+<a href="https://twitter.com/ubeydeozdmr"><img align="left" src="./assets/icons/64px/twitter.png" alt="Ubeyde Emir Özdemir | Twitter" /></a>
+<a href="https://www.instagram.com/ubeydeozdmr"><img align="left" src="./assets/icons/64px/instagram.png" alt="Ubeyde Emir Özdemir | Instagram" /></a>
+<a href="https://www.reddit.com/user/ubeydeozdmr"><img align="left" src="./assets/icons/64px/reddit.png" alt="Ubeyde Emir Özdemir | Reddit" /></a>
+<a href="https://t.me/ubeydeozdmr"><img align="left" src="./assets/icons/64px/telegram.png" alt="Ubeyde Emir Özdemir | Telegram" /></a>
+<a href="mailto:ubeydeozdmr@gmail.com"><img align="left" src="./assets/icons/64px/gmail.png" alt="Ubeyde Emir Özdemir | Email" /></a>
  
  <!--
  - ![Email](./assets/gmail.png) [Email](mailto:ubeydeozdmr@gmail.com)
