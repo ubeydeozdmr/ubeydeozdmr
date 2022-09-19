@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 [![Ubeyde's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubeydeozdmr&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubeydeozdmr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
