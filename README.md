@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since
 | **My personal website** | `ubeydeozdmr.github.io` | [Source Code](https://github.com/ubeydeozdmr/ubeydeozdmr.github.io) | [Project Link](https://ubeydeozdmr.netlify.app)
 | **Countrypedia** | `countrypedia` | [Source Code](https://github.com/ubeydeozdmr/countrypedia) | [Project Link](https://simplecountrypedia.netlify.app)
 | **Pokedex Bot** | `pokedex-bot-telegram` | [Source Code](https://github.com/ubeydeozdmr/PokedexBot) | [Project Link](https://t.me/rotompokedex_bot) |
-| **Provinces of Turkey API** | `provinces-of-turkey-api` | [Source Code](https://github.com/ubeydeozdmr/provinces-of-turkey-api) | [Project Link](https://provinces-of-turkey-api.herokuapp.com) |
+| **Turkiye API** | `turkiye-api` | [Source Code](https://github.com/ubeydeozdmr/turkiye-api) | [Project Link](https://turkiyeapi.cyclic.app) |
 | **Crema To-Do** | `crema-todo` | [Source Code](https://github.com/ubeydeozdmr/crema-todo) | [Project Link](https://crematodo.netlify.app)
 | **Movable Arrow** | `movable-arrow` | [Source Code](https://github.com/ubeydeozdmr/movable-arrow) | [Project Link](https://github.com/ubeydeozdmr/movable-arrow/releases/tag/v1.1) |
 | **Multipurpose Console** | `multipurpose-console` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-console) | [Project Link](https://github.com/ubeydeozdmr/multipurpose-console/releases/tag/2022Edit) |
