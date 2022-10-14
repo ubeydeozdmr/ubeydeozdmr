@@ -32,7 +32,8 @@ Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since
 | **Turkiye API** | `turkiye-api` | [Source Code](https://github.com/ubeydeozdmr/turkiye-api) | [Project Link](https://turkiyeapi.cyclic.app) |
 | **Crema To-Do** | `crema-todo` | [Source Code](https://github.com/ubeydeozdmr/crema-todo) | [Project Link](https://crematodo.netlify.app)
 | **Movable Arrow** | `movable-arrow` | [Source Code](https://github.com/ubeydeozdmr/movable-arrow) | [Project Link](https://github.com/ubeydeozdmr/movable-arrow/releases/tag/v1.1) |
-| **Multipurpose Console** | `multipurpose-console` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-console) | [Project Link](https://github.com/ubeydeozdmr/multipurpose-console/releases/tag/2022Edit) |
+| **Crema Blog** | `cremablog` | [Source Code](https://github.com/ubeydeozdmr/cremablog) | [Project Link](https://cremablog.cyclic.app) |
+<!-- | **Multipurpose Console** | `multipurpose-console` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-console) | [Project Link](https://github.com/ubeydeozdmr/multipurpose-console/releases/tag/2022Edit) | -->
 <!--| **Multipurpose Web** | `multipurpose-web` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-web) | [Project Link](https://ubeydeozdmr.github.io/MultipurposeWeb/) |-->
 
  ## 📫 You can contact me
