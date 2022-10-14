@@ -44,6 +44,8 @@ Welcome to my GitHub profile! I'm Ubeyde. I have been interested in coding since
 <a href="https://t.me/ubeydeozdmr">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:ubeydeozdmr@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
+<!-- <a href="https://linkedin.com/in/ubeydeozdmr">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> -->
+
 <!--
 <a href="https://twitter.com/ubeydeozdmr"><img align="left" src="./assets/icons/64px/twitter.png" alt="Ubeyde Emir Özdemir | Twitter" /></a>
 <a href="https://www.instagram.com/ubeydeozdmr"><img align="left" src="./assets/icons/64px/instagram.png" alt="Ubeyde Emir Özdemir | Instagram" /></a>
