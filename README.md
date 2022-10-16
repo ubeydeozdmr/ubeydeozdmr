@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am Ubeyde. I have been interested in coding sinc
 | Project Name | Repo Name | Source Code | Project Link |
 | --- | :---: |:---:| :---:|
 | **My personal website** | `ubeydeozdmr.github.io` | [Source Code](https://github.com/ubeydeozdmr/ubeydeozdmr.github.io) | [Project Link](https://ubeydeozdmr.netlify.app)
-| **Countrypedia** | `countrypedia` | [Source Code](https://github.com/ubeydeozdmr/countrypedia) | [Project Link](https://simplecountrypedia.netlify.app)
+| **Countrypedia** | `countrypedia` | [Source Code](https://github.com/ubeydeozdmr/countrypedia) | [Project Link](https://countrypedia.app)
 | **Pokedex Bot** | `pokedex-bot-telegram` | [Source Code](https://github.com/ubeydeozdmr/PokedexBot) | [Project Link](https://t.me/rotompokedex_bot) |
 | **Turkiye API** | `turkiye-api` | [Source Code](https://github.com/ubeydeozdmr/turkiye-api) | [Project Link](https://turkiyeapi.cyclic.app) |
 | **Crema To-Do** | `crema-todo` | [Source Code](https://github.com/ubeydeozdmr/crema-todo) | [Project Link](https://crematodo.netlify.app)
