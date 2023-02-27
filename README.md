@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am Ubeyde. I have been interested in coding sinc
 | **Countrypedia** | `countrypedia` | [Source Code](https://github.com/ubeydeozdmr/countrypedia) | [Project Link](https://countrypedia.app)
 | **Pokedex Bot** | `pokedex-bot-telegram` | [Source Code](https://github.com/ubeydeozdmr/PokedexBot) | [Project Link](https://t.me/rotompokedex_bot) |
 | **Turkiye API** | `turkiye-api` | [Source Code](https://github.com/ubeydeozdmr/turkiye-api) | [Project Link](https://turkiyeapi.cyclic.app) |
-| **Crema To-Do** | `crema-todo` | [Source Code](https://github.com/ubeydeozdmr/crema-todo) | [Project Link](https://crematodo.netlify.app)
+| **Crema To-Do** | `vue-todo-app` | [Source Code](https://github.com/ubeydeozdmr/vue-todo-app) | [Project Link](https://crematodo.netlify.app)
 | **Movable Arrow** | `movable-arrow` | [Source Code](https://github.com/ubeydeozdmr/movable-arrow) | [Project Link](https://github.com/ubeydeozdmr/movable-arrow/releases/tag/v1.1) |
 | **Crema Blog** | `cremablog` | [Source Code](https://github.com/ubeydeozdmr/cremablog) | [Project Link](https://cremablog.cyclic.app) |
 <!-- | **Multipurpose Console** | `multipurpose-console` | [Source Code](https://github.com/ubeydeozdmr/multipurpose-console) | [Project Link](https://github.com/ubeydeozdmr/multipurpose-console/releases/tag/2022Edit) | -->
@@ -39,10 +39,14 @@ Welcome to my GitHub profile! I am Ubeyde. I have been interested in coding sinc
  ## 📫 You can contact me
  
 <a href="https://twitter.com/ubeydeozdmr">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/ubeydeozdmr/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://github.com/ubeydeozdmr">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="mailto:ubeydeozdmr@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<!--
 <a href="https://www.instagram.com/ubeydeozdmr">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.reddit.com/user/ubeydeozdmr">![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)</a>
 <a href="https://t.me/ubeydeozdmr">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="mailto:ubeydeozdmr@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+-->
 
 <!-- <a href="https://linkedin.com/in/ubeydeozdmr">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> -->
 
