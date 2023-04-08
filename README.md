@@ -2,7 +2,7 @@
 
 ![banner](./assets/purple-welcome-canvas-banner.png)
 
-Welcome to my GitHub profile! I am Ubeyde. I have been interested in coding since high school years. I am currently a junior student at Üsküdar University. I'm the average JavaScript enjoyer, currently learning MongoDB.
+Welcome to my GitHub profile! I am Ubeyde. I have been interested in coding since high school years. Now, I am 21 years old and first-year student at Üsküdar University. I'm the average JavaScript enjoyer, currently learning MongoDB.
 
  ## 🤓 Knowledge & Activity
 
