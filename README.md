@@ -36,13 +36,13 @@ I am [**Ubeyde**](https://ubeydeozdmr.github.io), I have been interested in codi
   <summary><b>📊 GitHub Profile Stats (click to expand)</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="Ubeyde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ubeydeozdmr&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-    </a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubeydeozdmr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ubeyde's Top Langs" height="192px"/>
-  <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ubeydeozdmr&show_icons=true&count_private=true&theme=dark" alt="Ubeyde's Github Stats" />
+    <br/>
+    &nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubeydeozdmr&theme=dark&hide_border=false" alt="Ubeyde's Streaks" />
+    <br/>
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubeydeozdmr&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ubeyde's Top Langs" />
   </p>
 </details>
 
