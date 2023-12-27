@@ -7,7 +7,7 @@
 I have been interested in coding since my high school years and I am currently studying software engineering at Üsküdar University. I'm the average **_JavaScript_** enjoyer, currently learning **_React_**, moving forward to specialize on the **_frontend_**.
 
 - 🌍  I'm based in Istanbul, Turkey
-- 🖥️  See my portfolio at [ubeydeozdmr.netlify.app](https://ubeydeozdmr.netlify.app) or [ubeydeozdmr.github.io](https://ubeydeozdmr.github.io)
+- 🖥️  See my portfolio at [ubeyde.me](https://ubeyde.me)
 - ✉️  You can contact me at [ubeydeozdmr@gmail.com](mailto:ubeydeozdmr@gmail.com)
 - 🚀  I'm currently working on [Countrypedia (v3)](https://dev.countrypedia.app)
 - 🧠  I'm learning React & TypeScript
