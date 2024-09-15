@@ -10,7 +10,7 @@ I have been interested in coding since my high school years and I am currently s
 - 🖥️  See my portfolio at [ubeyde.me](https://ubeyde.me)
 - ✉️  You can contact me at [ubeydeozdmr@gmail.com](mailto:ubeydeozdmr@gmail.com)
 - 🚀  I'm currently working on [Countrypedia (v3)](https://dev.countrypedia.app)
-- 🧠  I'm learning Flutter & Dart
+- 🧠  I'm learning NextJS & React Native
 
 ### Skills
 
