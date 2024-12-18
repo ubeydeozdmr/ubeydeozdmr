@@ -4,7 +4,7 @@
 
 ## Software Engineering Student
 
-I have been interested in coding since my high school years and I am currently studying software engineering at Üsküdar University. I'm the average **_JavaScript_** enjoyer, currently learning **_React_**, moving forward to specialize on the **_frontend_**.
+I have been interested in coding since high school, and I am currently studying software engineering at Üsküdar University. I'm the average **_JavaScript_** enjoyer. I'm currently learning **_React_** and will specialize in the **_frontend_**.
 
 - 🌍  I'm based in Istanbul, Turkey
 - 🖥️  See my portfolio at [ubeyde.me](https://ubeyde.me)
@@ -37,7 +37,7 @@ I only put above what I actively use. My nickname on almost all my social media:
 
 <a href="http://www.github.com/ubeydeozdmr"><img src="https://github-readme-stats.vercel.app/api?username=ubeydeozdmr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ubeydeozdmr's GitHub stats" /></a>
 
-<a href="http://www.github.com/ubeydeozdmr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ubeydeozdmr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <a href="http://www.github.com/ubeydeozdmr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ubeydeozdmr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <a href="https://github.com/ubeydeozdmr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubeydeozdmr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
