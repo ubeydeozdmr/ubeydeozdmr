@@ -9,8 +9,10 @@ I have been interested in coding since high school, and I am currently studying 
 - 🌍  I'm based in Istanbul, Turkey
 - 🖥️  See my portfolio at [ubeyde.me](https://ubeyde.me)
 - ✉️  You can contact me at [ubeydeozdmr@gmail.com](mailto:ubeydeozdmr@gmail.com)
-- 🚀  I'm currently working on [Countrypedia (v3)](https://dev.countrypedia.app)
+- 🚀  I'm currently working on [Echolog](https://github.com/Project-Echolog/template), our university (elective-class) project
 - 🧠  I'm learning NextJS & React Native
+
+<!-- [Countrypedia (v3)](https://dev.countrypedia.app) -->
 
 ### Skills
 
