@@ -10,7 +10,7 @@ I have been interested in coding since high school, and I am currently studying 
 - 🖥️  See my portfolio at [ubeyde.me](https://ubeyde.me)
 - ✉️  You can contact me at [ubeydeozdmr@gmail.com](mailto:ubeydeozdmr@gmail.com)
 - 🚀  I'm currently working on [Echolog](https://github.com/Project-Echolog), our university (elective-class) project
-- 🧠  I'm learning NextJS & React Native
+- 🧠  I'm learning NextJS & React Native (and PHP because of our university project)
 
 <!-- [Countrypedia (v3)](https://dev.countrypedia.app) -->
 
