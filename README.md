@@ -34,6 +34,7 @@ I only put above what I actively use. My nickname on almost all my social media:
 <details>
 <summary><b>📊 GitHub Profile Stats (Click to expand)</b></summary>
 <br />
+  <br />
 <p align="left">
 <b>My GitHub Stats</b>
 
