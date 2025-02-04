@@ -9,7 +9,7 @@ I have been interested in coding since high school, and I am currently studying 
 - 🌍  I'm based in Istanbul, Turkey
 - 🖥️  See my portfolio at [ubeyde.me](https://ubeyde.me)
 - ✉️  You can contact me at [ubeydeozdmr@gmail.com](mailto:ubeydeozdmr@gmail.com)
-- 🚀  I'm currently working on [Echolog](https://github.com/Project-Echolog), our university (elective-class) project -almost finished-
+- 🚀  I'm currently working on [CremaBlog](https://github.com/ubeydeozdmr/cremablog), I'm creating this project from scratch, 3 years later! But this time with much better UI and functionality!
 - 🧠  I'm learning NextJS & React Native (and PHP because of our university project)
 
 <!-- [Countrypedia (v3)](https://dev.countrypedia.app) -->
@@ -27,7 +27,7 @@ I have been interested in coding since high school, and I am currently studying 
 <a href="https://twitter.com/ubeydeozdmr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-I only put above what I actively use. My nickname on almost all my social media: @ubeydeozdmr
+I only put above what I actively use for you. My nickname on almost all my social media: @ubeydeozdmr
 
 ### Badges
 
