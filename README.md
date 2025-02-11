@@ -9,7 +9,7 @@ I have been interested in coding since high school, and I am currently studying 
 - 🌍  I'm based in Istanbul, Turkey
 - 🖥️  See my portfolio at [ubeyde.me](https://ubeyde.me)
 - ✉️  You can contact me at [ubeydeozdmr@gmail.com](mailto:ubeydeozdmr@gmail.com)
-- 🚀  I'm currently working on [CremaBlog](https://github.com/ubeydeozdmr/cremablog), I'm creating this project from scratch, 3 years later! But this time with much better UI and functionality! I'll probably release the first version on my 23rd birthday - February 11th.
+- 🚀  I've just finished project [CremaBlog](https://github.com/ubeydeozdmr/cremablog)!
 - 🧠  I'm learning NextJS & React Native (and PHP because of our university project)
 
 <!-- [Countrypedia (v3)](https://dev.countrypedia.app) -->
