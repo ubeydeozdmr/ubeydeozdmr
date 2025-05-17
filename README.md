@@ -12,6 +12,7 @@ I have been interested in coding since high school, and I am currently studying 
 - 🚀  I'm currently working on [TurkiyeAPI](https://github.com/ubeydeozdmr/turkiye-api) to create better documentation.
 - 🚀  I've just finished project [CremaBlog](https://github.com/ubeydeozdmr/cremablog)! You can preview it from [here](https://ubeyde.dev/). for API, from [here](https://api.ubeyde.dev/)
 - 🧠  I'm learning NextJS & React Native
+- 💡  Nowadays I'm interested in local LLMs
 
 <!-- [Countrypedia (v3)](https://dev.countrypedia.app) -->
 
