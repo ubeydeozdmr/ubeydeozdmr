@@ -31,6 +31,7 @@ I have been interested in coding since high school, and I am currently studying 
 
 I only put above what I actively use for you. My nickname on almost all my social media: @ubeydeozdmr
 
+<!--
 ### Badges
 
 <details>
@@ -47,6 +48,7 @@ I only put above what I actively use for you. My nickname on almost all my socia
 
 </p>
 </details>
+-->
 
 ### Support Me
 
